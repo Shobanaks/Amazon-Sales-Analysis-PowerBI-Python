@@ -50,5 +50,5 @@ The dashboard focuses on revenue, profit, profit margin, units sold, shipping du
 
 ## 👩‍💻 Author
 **Shobana M**  
-📧 Email: shobanam135@gmail.com  
+📧 Email: shobanaks4212@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/shobana-m-3542a933a
